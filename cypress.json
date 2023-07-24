@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://clearcodehq.github.io/qa-intern-test/#/",
+  "includesSchadowDom": true,
+  "chromeWebSecurity": true,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "reporter": "cypress-mochawesome-reporter"
+}
